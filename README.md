@@ -1,3 +1,7 @@
+### [Issue](https://github.com/siemens/ix/issues/1511) 👈
+
+### Waiting for fix ...
+
 ### Expected Behavior
 
 The `ix-spinner` component should render correctly when using Siemens IX v2.
