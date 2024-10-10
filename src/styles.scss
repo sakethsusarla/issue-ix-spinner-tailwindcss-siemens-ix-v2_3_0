@@ -1,0 +1,10 @@
+@import '@siemens/ix/dist/siemens-ix/siemens-ix.css';
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+    height: 100vh;
+    user-select: none;
+}
