@@ -1,6 +1,6 @@
 ### [Issue](https://github.com/siemens/ix/issues/1511) 👈
 
-### Waiting for fix ...
+### [Fix](https://github.com/siemens/ix/pull/1541) 👈 TLDR: Upgrade @siemens/ix-angular to v2.6.0
 
 ### Expected Behavior
 
